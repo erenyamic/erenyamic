@@ -13,11 +13,7 @@
 </p>
 <br>
  
-- 🔭 I’m currently working on **Asp.NET**
- 
-- 🌱 I’m currently learning **C#**
- 
-- 🤝 I’m looking for help with **Asp.NEt and MVC**
+- 🔭 I’m currently working on **R&D Software**
  
 - 👨‍💻 All of my projects are available at [https://github.com/erenyamic](https://github.com/erenyamic)
  
