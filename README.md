@@ -21,11 +21,11 @@
  
 - 👨‍💻 All of my projects are available at [https://github.com/erenyamic](https://github.com/erenyamic)
  
-- 📝 I regularly write articles on [https://www.linkedin.com/in/erenyamic/](https://www.linkedin.com/in/erenyamic/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/eren-yamiç-5baa981b7/](https://www.linkedin.com/in/eren-yamiç-5baa981b7/)
  
 - 📫 How to reach me **erenyamic@gmail.com**
  
-- 📄 Know about my experiences [https://www.linkedin.com/in/erenyamic/](https://www.linkedin.com/in/erenyamic/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/eren-yamiç-5baa981b7/](https://www.linkedin.com/in/eren-yamiç-5baa981b7/)
  
 - ⚡ Fun fact **It's always fun to learn more.**
  
