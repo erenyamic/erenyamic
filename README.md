@@ -13,7 +13,7 @@
 </p>
 <br>
  
-- 🔭 I’m currently working on **R&D Software**
+- 🔭 I’m currently working on **R&D Software Developer**
  
 - 👨‍💻 All of my projects are available at [https://github.com/erenyamic](https://github.com/erenyamic)
  
