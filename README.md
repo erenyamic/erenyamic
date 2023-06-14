@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Yamiç</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate FullStack developer from Turkey</h3>
  
 <h3 align="center">Languages and Tools</h3>
  
